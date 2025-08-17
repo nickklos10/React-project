@@ -11,16 +11,36 @@ A professional portfolio website for Nicholas Klos, Forward Deployed Engineer sp
 📱 **Responsive Design**: Works on desktop and mobile devices
 ⚡ **Modern Stack**: React 18 + TypeScript + Vite + Tailwind CSS
 🚀 **Smooth Navigation**: Single-page application with smooth scrolling sections
-💼 **Professional Theme**: Blue color scheme and technical terminology
+💼 **Cyber Futuristic Theme**: Cyan/blue color scheme with glitch effects and neon aesthetics
+🎯 **Custom Cursor**: Advanced targeting cursor with GSAP animations and interactive corners  
+✨ **Cyber Effects**: Glitch animations, data streams, geometric elements, and cyber borders
+🌟 **Enhanced Animations**: Pulsing status indicators, gradient progress bars, and floating elements
 
-## Terminal Effects
+## Interactive Effects
 
+### Terminal Background
 - **Scanlines**: Retro CRT monitor effect
 - **Glitch**: Digital distortion and displacement
 - **Mouse Interaction**: Cursor creates ripples in the terminal matrix
 - **Chromatic Aberration**: Color separation effect
 - **Curvature**: Simulates curved CRT screen
 - **Noise & Flicker**: Authentic terminal imperfections
+
+### Custom Cursor System
+- **Target Acquisition**: Animated corner brackets appear when hovering over interactive elements
+- **Spinning Animation**: Continuous rotation when not targeting elements
+- **Click Effects**: Cursor and dot scale animations on mouse down/up
+- **Parallax Movement**: Subtle corner movements follow mouse within targeted elements
+- **Smooth Transitions**: GSAP-powered animations for fluid cursor behavior
+
+### Cyber Futuristic Elements
+- **Glitch Effects**: Text glitch animations on main headings with layered distortion
+- **Cyber Borders**: Dynamic geometric borders with gradient effects
+- **Status Indicators**: Pulsing colored dots indicating system status
+- **Data Streams**: Flowing data effect overlays on interactive elements  
+- **Grid Patterns**: Subtle cyber grid backgrounds in headers and footers
+- **Color Coding**: Context-aware color schemes (cyan, blue, purple, green, red)
+- **Floating Elements**: Animated geometric shapes in background
 
 ## Quick Start
 
@@ -68,7 +88,8 @@ The `FaultyTerminal` component accepts many props for customization:
 - **TypeScript** - Type-safe JavaScript
 - **Tailwind CSS** - Utility-first CSS framework
 - **Vite** - Fast build tool and dev server
-- **OGL** - Lightweight WebGL library
+- **OGL** - Lightweight WebGL library for terminal effects
+- **GSAP** - Professional animation library for cursor interactions
 - **Custom Shaders** - GLSL fragment and vertex shaders
 
 ## Browser Support
