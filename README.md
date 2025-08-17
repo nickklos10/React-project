@@ -1,15 +1,17 @@
-# CyberTerm - React WebGL Terminal Website
+# Nicholas Klos - Forward Deployed Engineer Portfolio
 
-A futuristic cyberpunk-style website featuring an interactive WebGL terminal background using React, TypeScript, and Tailwind CSS.
+A professional portfolio website for Nicholas Klos, Forward Deployed Engineer specializing in Palantir Technologies, featuring an interactive WebGL terminal background using React, TypeScript, and Tailwind CSS.
 
 ## Features
 
 🌐 **WebGL Terminal Background**: Animated matrix-style terminal effect using OGL
 🎮 **Interactive**: Mouse movement creates ripple effects on the terminal
-✨ **Page Load Animation**: Terminal characters fade in progressively on load
-🎨 **Cyberpunk Aesthetic**: Green terminal theme with glitch effects
+✨ **Professional Portfolio**: Comprehensive FDE career showcase
+🔵 **Palantir-Focused**: Specialized content for Foundry, Gotham, and Apollo platforms
 📱 **Responsive Design**: Works on desktop and mobile devices
 ⚡ **Modern Stack**: React 18 + TypeScript + Vite + Tailwind CSS
+🚀 **Smooth Navigation**: Single-page application with smooth scrolling sections
+💼 **Professional Theme**: Blue color scheme and technical terminology
 
 ## Terminal Effects
 
